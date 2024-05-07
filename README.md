@@ -76,8 +76,7 @@ CSV FILE
 
 # SALES-DASHBOARD
 
-
-![image](https://github.com/saishrikrishnaa/SALES-DASHBOARD/assets/56291642/99ace331-4977-46cd-b621-c6dd72b4cfbc
+![image](https://github.com/saishrikrishnaa/SALES-DASHBOARD/assets/56291642/a02a5926-f91b-47c8-9098-501e53024537)
 
 
 Insights:
